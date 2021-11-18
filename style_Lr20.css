@@ -1,0 +1,123 @@
+body{
+    margin: 0;
+    font-family: 'Amatic SC', cursive;
+}
+
+p{
+    margin: 0;
+}
+
+#page1{
+    padding: 6.5% 15%; 
+}
+
+#page1_flex{
+    display: inline-flex;
+}
+
+#things_p1{
+    padding-left: 150px;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+#heading_p1{
+    font-size: 72px;
+    color: #293146;
+}
+
+#text_p1{
+    font-size: 36px;
+    width: 421px;
+    margin-top: 110px;
+}
+
+#stitch_p1{
+    display: block;
+    margin-left: auto;
+    margin-right: 0;
+}
+
+#page2{
+    padding: 6.5% 15%;
+}
+
+#page2_flex{
+    display: inline-flex;
+}
+
+#things_p2{
+    margin-right: 83px;
+}
+
+#heading_p2{
+    font-size: 48px;
+    color: #450003;
+}
+
+#text_p2{
+    font-size: 36px;
+    width: 488px;
+}
+
+#stitch_p2{
+    display: block;
+    margin-left: auto;
+    margin-right: 0;
+}
+
+#page3{
+    padding: 6% 15%;
+}
+
+#page3_flex{
+    display: inline-flex;
+}
+
+#things_p3{
+    margin-left: 91px;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+#heading_p3{
+    font-size: 48px;
+    color: #341F41;
+}
+
+#text_p3{
+    font-size: 32px;
+    margin-top: 25px;
+}
+
+#stitch_p3{
+    display: block;
+    margin-left: auto;
+    margin-right: 0;
+}
+
+#page4_flex{
+    display: inline-flex;
+    padding: 5% 15%;
+}
+
+#photo2_p4{
+    margin-left: 80px;
+}
+
+#text_p4{
+    font-size: 48px;
+    color: #152B66;
+    text-align: center;
+    margin-top: 12px;
+}
+
+#footer_p4{
+    display: inline-flex;
+    margin-left: 70%;
+}
+
+#signature{
+    font-size: 48px;
+    padding-top: 80px;
+}
